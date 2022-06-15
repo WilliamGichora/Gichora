@@ -1,0 +1,2 @@
+# Gichora
+my first repositiry
